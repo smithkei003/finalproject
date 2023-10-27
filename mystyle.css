@@ -26,6 +26,16 @@ background-color: blue;
   p.L{
    text-align: center;
    float: left;
+
+   div.con:nth-child(2n + 0 ) {
+   background-color: #808000;
+   color: #8B4513;
+   }
+
+    div.con:nth-child(1n + 0 ) {
+   background-color: #8B4513;
+   color: #808000;
+   }
    
   }
  }
