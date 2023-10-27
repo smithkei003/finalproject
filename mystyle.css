@@ -4,5 +4,28 @@ background-color: blue;
  p.p1{
     cursor:cell;
     color: purple;
-
+  h1{
+   border: 10px;
+   border-color: red;
+   margin: 5px;
+   padding: 5px;
+  }
+  table{
+   float: right; 
+   color: black;
+   background-image: linear-gradient(to right, red , yellow);
+   Padding: 5, 0, 5, 10;
+   
+  }
+  td.w{
+   font-size: large; 
+   color: yellor;
+   background-color: black;
+   text-decoration: line-under red ;
+  }
+  p.L{
+   text-align: center;
+   float: left;
+   
+  }
  }
